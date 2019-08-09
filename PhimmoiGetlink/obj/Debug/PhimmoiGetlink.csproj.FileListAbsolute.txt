@@ -1,0 +1,13 @@
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\bin\Debug\PhimmoiGetlink.exe
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\bin\Debug\PhimmoiGetlink.pdb
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\obj\Debug\PhimmoiGetlink.csprojAssemblyReference.cache
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\obj\Debug\PhimmoiGetlink.Properties.Resources.resources
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\obj\Debug\PhimmoiGetlink.csproj.GenerateResource.cache
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\obj\Debug\PhimmoiGetlink.csproj.CoreCompileInputs.cache
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\obj\Debug\PhimmoiGetlink.exe
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\obj\Debug\PhimmoiGetlink.pdb
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\bin\Debug\WebDriver.dll
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\bin\Debug\WebDriver.xml
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\obj\Debug\PhimmoiGetlink.Form1.resources
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\obj\Debug\PhimmoiGetlink.csproj.CopyComplete
+D:\University\Self-Learning\Automation Test - Crawling\Selenium\Getlink Phimmoi\PhimmoiGetlink\PhimmoiGetlink\bin\Debug\PhimmoiGetlink.exe.config
